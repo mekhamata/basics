@@ -2,5 +2,11 @@ const version = 4;
 console.log('my application code');
 
 const scream = () =>{
-    console.log('Ahhhhhhh');
+    console.log('Ohhhhhhh');
+}
+
+//////
+
+const widget = () =>{
+    alert('widget');
 }
