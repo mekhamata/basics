@@ -12,3 +12,7 @@ const widget = () =>{
     alert('widget');
     console.log('something new');
 }
+
+const user = () =>{
+    alert('Some other code');
+}
