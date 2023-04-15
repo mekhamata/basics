@@ -1,5 +1,5 @@
 This are the instructions
-version: 4
+version: 5
 
 1- Download the repo
 2- Do npm install
