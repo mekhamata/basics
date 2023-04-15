@@ -22,3 +22,4 @@ const bossFix ="the fix formy boss";
 const stashContent = "some content";
 
 console.log('some changes 1');
+console.log('some changes 2');
