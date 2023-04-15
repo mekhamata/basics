@@ -16,3 +16,5 @@ const widget = () =>{
 const auth = () =>{
     console.log('user auth');
 }
+
+const bossFix ="the fix formy boss";
