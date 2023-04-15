@@ -16,3 +16,5 @@ const widget = () =>{
 const auth = () =>{
     console.log('user auth');
 }
+
+//some code here
