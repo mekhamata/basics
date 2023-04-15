@@ -18,3 +18,5 @@ const auth = () =>{
 }
 
 const bossFix ="the fix formy boss";
+/////
+const stashContent = "some content";
